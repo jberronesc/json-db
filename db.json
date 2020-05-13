@@ -2,7 +2,7 @@
 	"cursos" : [
     {
       "id"           : 1 ,
-      "titulo"        :"Programacion desde cero con Git" ,
+      "titulo"       :"Programacion desde cero con Git" ,
       "image"        : "https://edteam-media.s3.amazonaws.com/courses/original/bbf9707a-d2e8-441e-ab4b-756bf3bb527a.png" ,
       "price"        : 23,
       "profesor"     : "Beto Quiroga",
@@ -10,7 +10,7 @@
     },
     {
       "id"           : 2 ,
-      "titulo"        : "Infraestructura de Redes", 
+      "titulo"       : "Infraestructura de Redes", 
       "image"        : "https://edteam-media.s3.amazonaws.com/courses/original/317a14ee-c682-4be1-94ba-51bdcd53d2bf.png", 
       "price"        : 27, 
       "profesor"     : "Paula Leon",
@@ -18,16 +18,15 @@
     },
     {
       "id"           : 3 ,
-      "titulo"        : "Google Analytics Desde Cero", 
+      "titulo"       : "Google Analytics Desde Cero", 
       "image"        : "https://edteam-media.s3.amazonaws.com/courses/original/0686473c-ed59-48b6-8e0d-059e8e043d36.png", 
       "price"        : 24, 
       "profesor"     : "Martin Arzuaga",
       "img_docente"  : "https://edteam-media.s3.amazonaws.com/users/thumbnail/7d88fbe3-6f08-41fe-8ca0-eefa6ee9cccd.png"
     },
-	
     {
       "id"           : 4 ,
-      "titulo"        : "Desarrollo Android con Kotlin", 
+      "titulo"       : "Desarrollo Android con Kotlin", 
       "image"        : "https://edteam-media.s3.amazonaws.com/courses/original/317a14ee-c682-4be1-94ba-51bdcd53d2bf.png", 
       "price"        : 40, 
       "profesor"     : "José Dimas Luján",
