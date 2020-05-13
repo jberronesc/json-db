@@ -1,0 +1,61 @@
+{
+	cursos = [
+    {
+      "id"           : 1 ,
+      "titulo"        :"Programacion desde cero con Git" ,
+      "image"        : "https://edteam-media.s3.amazonaws.com/courses/original/bbf9707a-d2e8-441e-ab4b-756bf3bb527a.png" ,
+      "price"        : 23
+      "profesor"     : "Beto Quiroga",
+      "img_docente"  : "https://edteam-media.s3.amazonaws.com/users/thumbnail/e19b1e7f-6dcc-495b-883c-7d0b9b3fdf15.jpg"
+    },
+    {
+      "id"           : 2 ,
+      "titulo"        : "Infraestructura de Redes", 
+      "image"        : "https://edteam-media.s3.amazonaws.com/courses/original/317a14ee-c682-4be1-94ba-51bdcd53d2bf.png", 
+      "price"        : 27, 
+      "profesor"     : "Paula Leon",
+      "img_docente"  : "https://edteam-media.s3.amazonaws.com/users/thumbnail/69339b99-de0a-4bc0-a0cc-6b27c388b50b.png"
+    },
+    {
+      "id"           : 3 ,
+      "titulo"        : "Google Analytics Desde Cero", 
+      "image"        : "https://edteam-media.s3.amazonaws.com/courses/original/0686473c-ed59-48b6-8e0d-059e8e043d36.png", 
+      "price"        : 24, 
+      "profesor"     : "Martin Arzuaga",
+      "img_docente"  : "https://edteam-media.s3.amazonaws.com/users/thumbnail/7d88fbe3-6f08-41fe-8ca0-eefa6ee9cccd.png"
+    },
+	
+    {
+      "id"           : 4 ,
+      "titulo"        : "Desarrollo Android con Kotlin", 
+      "image"        : "https://edteam-media.s3.amazonaws.com/courses/original/317a14ee-c682-4be1-94ba-51bdcd53d2bf.png", 
+      "price"        : 40, 
+      "profesor"     : "José Dimas Luján",
+      "img_docente"  : "https://edteam-media.s3.amazonaws.com/users/thumbnail/eaf5a6d1-71a4-4b58-96d6-c895fc5159e3.jpeg"
+    },	
+    {
+      "id"           : 5 ,
+      "titulo"        : "Desarrollo web con Java", 
+      "image"        : "https://edteam-media.s3.amazonaws.com/courses/original/4af57900-d787-4256-8eb7-d3984602e312.jpg", 
+      "price"        : 556, 
+      "profesor"     : "José Dimas Luján",
+      "img_docente"  : "https://edteam-media.s3.amazonaws.com/users/thumbnail/eaf5a6d1-71a4-4b58-96d6-c895fc5159e3.jpeg"
+    },	
+    {
+      "id"           : 6 ,
+      "titulo"        : "Laravel Desde Cero (2019)", 
+      "image"        : "https://edteam-media.s3.amazonaws.com/courses/original/4af57900-d787-4256-8eb7-d3984602e312.jpg", 
+      "price"        : 7, 
+      "profesor"     : "Yesi Days",
+      "img_docente"  : "https://edteam-media.s3.amazonaws.com/users/thumbnail/00045fff-5552-4cff-9c0e-29faa306b60a.jpg"
+    },	
+    {
+      "id"           : 8 ,
+      "titulo"        : "PHP Desde Cero (2019)", 
+      "image"        : "https://edteam-media.s3.amazonaws.com/courses/original/5ec26692-8451-4297-a59a-adb1829a90e8.jpg", 
+      "price"        : 45, 
+      "profesor"     : "Manuel Rodriguez",
+      "img_docente"  : "https://edteam-media.s3.amazonaws.com/users/thumbnail/f3d219b9-6756-48ca-8694-f5a339b4e0af.jpeg"
+    },
+  ]
+}
