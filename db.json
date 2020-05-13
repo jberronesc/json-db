@@ -4,7 +4,7 @@
       "id"           : 1 ,
       "titulo"        :"Programacion desde cero con Git" ,
       "image"        : "https://edteam-media.s3.amazonaws.com/courses/original/bbf9707a-d2e8-441e-ab4b-756bf3bb527a.png" ,
-      "price"        : 23
+      "price"        : 23,
       "profesor"     : "Beto Quiroga",
       "img_docente"  : "https://edteam-media.s3.amazonaws.com/users/thumbnail/e19b1e7f-6dcc-495b-883c-7d0b9b3fdf15.jpg"
     },
